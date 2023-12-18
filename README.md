@@ -41,7 +41,7 @@ The manager of a building materials delivery service requires a tool to validate
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/ihtesham-jahangir/AICP-week-6.git
+   git clone https://github.com/ihtesham-jahangir/AICP-Week6
 Navigate to the project directory:
 
 bash
